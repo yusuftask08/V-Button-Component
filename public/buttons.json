@@ -1,0 +1,61 @@
+[
+    {
+        "innerText": "Disabled",
+        "color":"disabled",
+        "size":"small",
+        "vSlot":"Primary"
+    },
+    {
+        "innerText": "Primary",
+        "color":"primary",
+        "size":"small",
+        "vSlot":"Primary"
+    },
+    {
+        "innerText": "Secondary",
+        "color":"secondary",
+        "size":"small",
+        "vSlot":"Secondary"
+    },
+    {
+        "innerText": "Success",
+        "color":"success",
+        "size":"small"
+    },
+    {
+        "innerText": "Danger",
+        "color":"danger",
+        "size":"small",
+        "vSlot":"Danger"
+    },
+    {
+        "innerText": "Warning",
+        "color":"warning",
+        "size":"small",
+        "vSlot":"Warning"
+    },
+    {
+        "innerText": "Info",
+        "color":"info",
+        "size":"small",
+        "vSlot":"Info"
+    },
+    {
+        "innerText": "Light",
+        "color":"light",
+        "size":"small",
+        "vSlot":"Light"
+    },
+    {
+        "innerText": "Dark",
+        "color":"dark",
+        "size":"small",
+        "vSlot":"Dark"
+    },
+    {
+        "innerText": "Link",
+        "color":"link",
+        "size":"small",
+        "vSlot":"Link"
+    }
+]
